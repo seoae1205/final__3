@@ -1,0 +1,13 @@
+
+
+.next{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    opacity: 1;
+    transition: opacity 0.2s ease-in;
+    }
+    .hover-effect2:hover {
+        opacity: 0.3;
+        transform: scale(1.1);
+      }
